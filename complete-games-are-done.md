@@ -1,3 +1,7 @@
+layout: page
+title: "Complete Games Are Done"
+permalink: /complete-games-are-done/
+
 ## What We're Looking For
 The modern professional baseball player comes from a different planet than did their old-timey, horse-and-buggy forebears. Today's gam  e is faster, higher-scoring, and split-second timed. Most players' skill sets and repertoire are specialized and weaponized so as to befuddle, speed past, and overpower the suckers wearing the other-colored caps.
 
