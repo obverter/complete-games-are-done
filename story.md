@@ -1,5 +1,5 @@
-
 ## Complete Games: What They Are and Why They're Special
+
 The modern professional baseball pitcher is an athletic mutant. Compared to their old-timey, sepia-toned, horse-and-buggy forebears, they're practically playing a different sport.
 
 The action in a modern professional baseball game is blindingly fast and split-second timed.
@@ -17,6 +17,8 @@ Of these and every other position on a baseball field, the starting pitcher's ro
 For decades, the pitcher wasn't thought of as a particularly strategic role. Rather than try to throw strikes past the batter, the pitcher was expected to just fling the ball toward the batter, let him hit it somewhere, and expect that the defense would put the batter out.
 
 And so the starting pitcher was the pitcher, and the pitcher usually pitched the entire game.
+
+And when the pitcher that started the game also finished the game, the record-keepers awarded him with a 'Complete Game.'
 
 But this hardly ever happens now. And when it does, it's a talking point across the league for that day's news cycle.
 
