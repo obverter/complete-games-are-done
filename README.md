@@ -12,4 +12,4 @@ Of all the positions on the diamond, the starting pitcher's role has changed the
 
 Relief pitchers weren't really a structured part of the game in its fledgling years. The starting pitcher was the pitcher, and the pitcher usually pitched the entire game.
 
-So what changed?
+So what changed>
