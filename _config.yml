@@ -1,7 +1,7 @@
 theme: jekyll-theme-modernist
 lsi: false
 safe: true
-source: [your repo's top level directory]
+source: https://github.com/obverter/complete-games-are-done
 incremental: false
 highlighter: rouge
 markdown: GFM
