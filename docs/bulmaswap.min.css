@@ -431,13 +431,14 @@ body,
 code {
     font-weight: 400;
 }
+/* VVVVVVV MAIN BODY FONT IS HERE VVVVVVVV */
 body {
-    font-size: 1em;
+    font-size: 1.2em;
     line-height: 1.5;
     color: #3e3f3a;
 }
 a {
-    color: #8e8c84;
+    color: #1861c1;
     cursor: pointer;
     text-decoration: none;
 }
