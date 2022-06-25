@@ -2,9 +2,6 @@
 build
 coverage
 
-# Ignore all HTML files:
-*.html
-
 # Ignore helpers:
 **/.git
 **/.svn
