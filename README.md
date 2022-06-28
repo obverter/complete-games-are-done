@@ -2,11 +2,11 @@
 
 The modern professional baseball pitcher is an athletic mutant. Compared to their old-timey, sepia-toned, horse-and-buggy forebears, they're practically playing a different sport.
 
-The action in a modern professional baseball game is blindingly fast and split-second timed.
-
 Most pitchers breaking into the Big Leagues today can throw a baseball almost 100 miles per hour. From an early age — sometimes as young as seven or eight — the modern pitcher develops a bespoke pitching repertoire that's designed and weaponized so as to befuddle and overpower the suckers wearing the other-colored caps.
 
 But it wasn't always this way.
+
+### A Brief History of Ancient Baseball
 
 The professional baseball player of ~150 years ago was not a full-time, this-is-all-I-do professional. For its first few decades, baseball was a seasonal job played before crowds of maybe a few hundred spectators for the biggest games.
 
@@ -22,4 +22,4 @@ And when the pitcher that started the game also finished the game, the record-ke
 
 But this hardly ever happens now. And when it does, it's a talking point across the league for that day's news cycle.
 
-So what changed?
+###
